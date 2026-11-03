@@ -1,0 +1,29 @@
+{
+  "students" : [ {
+    "id" : "35",
+    "name" : "sravani",
+    "email" : "sravs10@gmail.com",
+    "department" : "bca",
+    "year" : 1
+  } ],
+  "courses" : [ {
+    "id" : "cs101",
+    "name" : "javaprogramming",
+    "capacity" : 90000,
+    "facultyId" : "45"
+  } ],
+  "faculties" : [ {
+    "id" : "45",
+    "name" : "poornima",
+    "email" : "manikyapoornima@gmail.com",
+    "designation" : "professor",
+    "department" : "bca"
+  } ],
+  "registrations" : [ {
+    "id" : "498802f2-cdfd-415b-a971-f6ebd429eb22",
+    "studentId" : "35",
+    "courseId" : "cs101",
+    "registrationDate" : "2026-11-03",
+    "status" : "REGISTERED"
+  } ]
+}
